@@ -85,6 +85,9 @@ void ReverseList(SqList &L)
     }
 }
 
+// 奇偶分开并排序
+
+
 int main()
 {
     SqList L;
